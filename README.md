@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Justine</h1>
-<h3 align="center">Expanding my skil set.</h3>
-
--  Pronouns: She/They
+<h1 align="center">Hi 👋, I'm Justine (She/They)</h1>
+<h3 align="center">Here to expand my skil sets.</h3>
 
 <p>Through creating scripts for fellow service desk members, I have discovered I enjoy coding. It's more than just the code. It's the ability to automate tasks and free up people's time. </p>
 
