@@ -1,12 +1,11 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">I come from Ops and see coding as the future of IT.</h3>
-
+- 😄 Pronouns: She/They
 
 <!--
 **JustineCodes/JustineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 😄 Pronouns: She/They
+
 - 🔭 I’m currently working on **Expanding my coding experience.**
 
 - 🌱 I’m currently learning **Terraform**
