@@ -8,6 +8,10 @@
 
 - 📝 I regularly write articles on: [Hope In Tech](https://www.hopeintech.com/)
 
+- 📫 How to reach me:
+
+  [Twitter](https://twitter.com/JustineHMathews)
+
 <!--
 **JustineCodes/JustineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
