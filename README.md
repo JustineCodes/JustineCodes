@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on:
 <p>Recently I have turned my attention to Cloud computing, starting with Azure and looking at AWS. I believe Cloud computing is a progression in technology and allows us to manage resources better. Recently I have been exploring Infrastructure as code through the use of Terraforms. I am intrigued by the idea that we can manage our Infrastructure with code.</p>
 
-- 🌱 I’m currently learning: PowerShell / C# / Terraform
+- 🌱 I’m currently learning:
+<p>PowerShell / C# / Terraform</p>
 
 - 📝 I regularly write articles on:
 
