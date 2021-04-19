@@ -5,11 +5,9 @@
 
 <p>Through creating scripts for fellow service desk members, I have discovered I enjoy coding. It's more than just the code. It's the ability to automate tasks and free up people's time. </p>
 
-- 🔭 I’m currently working on **Expanding my coding experience.**
+- 🔭 I’m currently working on: Increasing my Cloud operations support skills.
 
-- 🌱 I’m currently learning: **Terraform**
-
-- 🤝 I’m looking for help with: **I am always looking for pro tips.**
+- 🌱 I’m currently learning: PowerShell / C# / Terraform
 
 - 📝 I regularly write articles on: [Hope In Tech](https://www.hopeintech.com/)
 
