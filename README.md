@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
-<h3 align="center">I come from Ops and see coding as the future of IT.</h3>
+<h3 align="center">Expanding my skil set.</h3>
 
 -  Pronouns: She/They
+
+<p>Through creating scripts for fellow service desk members, I have discovered I enjoy coding. It's more than just the code. It's the ability to automate tasks and free up people's time. </p>
 
 - 🔭 I’m currently working on **Expanding my coding experience.**
 
