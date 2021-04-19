@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning: PowerShell / C# / Terraform
 
-- 📝 I regularly write articles on: [Hope In Tech](https://www.hopeintech.com/)
+- 📝 I regularly write articles on:
+
+  [Hope In Tech](https://www.hopeintech.com/)
 
 - 📫 How to reach me:
 
