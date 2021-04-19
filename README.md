@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **I am always looking for pro tips.**
 
-- 📝 I regularly write articles on [https://www.hopeintech.com/](https://www.hopeintech.com/)
+- 📝 I regularly write articles on [Hope In Tech](https://www.hopeintech.com/)
 
 <!--
 **JustineCodes/JustineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
