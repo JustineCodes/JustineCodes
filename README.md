@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justine (She/They)</h1>
 
-<p>Through creating scripts for fellow service desk members, I have discovered I enjoy coding. It's more than just the code. It's the ability to automate tasks and free up people's time. </p>
+<p>Through creating scripts for fellow service desk members, I have discovered I enjoy coding. What I like best is the ability to automate tasks and free up people's time.</p>
 
 - 🔭 I’m currently working on: Increasing my Cloud operations support skills.
 
