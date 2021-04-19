@@ -1,16 +1,23 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Justine</h1>
+<h3 align="center">I come from Ops and see coding as the future of IT.</h3>
+
 
 <!--
 **JustineCodes/JustineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: She/They
+- 🔭 I’m currently working on **Expanding my coding experience.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **Terraform**
+
+- 🤝 I’m looking for help with **I am always looking for pro tips.**
+
+- 📝 I regularly write articles on [https://www.hopeintech.com/](https://www.hopeintech.com/)
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
