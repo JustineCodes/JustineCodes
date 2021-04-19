@@ -2,17 +2,17 @@
 
 <p>Over the years, I have created many production PowerShell scripts for Active Directory and Exchange (OnPrem and OnLine). Through the use of scripts, I have been able to reduce the time it takes to complete tasks while increasing accuracy. Most of the scripts until recently were ran interactively by another technician. However, over the past year, I have been working with other teams to remove the need for human interaction. I see automation as a way of improving accuracy, reduce time spent, and maintain documentation of a process.</p>
 
-- 🔭 I’m currently working on:
+- I’m currently working on:
 <p>Recently I have turned my attention to Cloud computing, starting with Azure and looking at AWS. I believe Cloud computing is a progression in technology and allows us to manage resources better. Recently I have been exploring Infrastructure as code through the use of Terraforms. I am intrigued by the idea that we can manage our Infrastructure with code.</p>
 
-- 🌱 I’m currently learning:
+- Languages I’m currently learning:
 <p>PowerShell / C# / Terraform</p>
 
-- 📝 I regularly write articles on:
+- I just started blogging on:
 
   [Hope In Tech](https://www.hopeintech.com/)
 
-- 📫 How to reach me:
+- How to reach me:
 
   [Twitter](https://twitter.com/JustineHMathews)
 
