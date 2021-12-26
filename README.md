@@ -6,16 +6,7 @@
 - I’m currently working on:
 <p>Recently I have turned my attention to Cloud computing, starting with Azure and looking at AWS. I believe Cloud computing is a progression in technology and allows us to manage resources better. Recently I have been exploring Infrastructure as code through the use of Terraforms. I am intrigued by the idea that we can manage our Infrastructure with code.</p>
 
-- Languages I’m currently learning:
-<p>PowerShell / C# / Terraform</p>
 
-- I just started blogging on:
-
-  [Hope In Tech](https://www.hopeintech.com/)
-
-- How to reach me:
-
-  [Twitter](https://twitter.com/JustineHMathews)
 
 <!--
 **JustineCodes/JustineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
